@@ -1,1 +1,0 @@
-// Sistema completo fusionado de Módulo 1 y 2 (ejemplo placeholder)
